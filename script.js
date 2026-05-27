@@ -247,7 +247,7 @@ const QUIZ_DATA = {
       question: "What percentage of interpersonal communication is non-verbal?",
       options: ["About 5–7%", "About 80–90%", "About 40–50%", "About 60–70%"],
       correct: 1,
-      explanation: "Non-verbal communication (body language, gestures, eye contact, space, touch) accounts for approximately 18–19% of understood meaning in interpersonal communication."
+      explanation: "Non-verbal communication (body language, gestures, eye contact, space, touch) accounts for approximately 80–90% of understood meaning in interpersonal communication."
     },
     {
       question: "Which is considered the most powerful single communication skill?",
